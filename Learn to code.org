@@ -1,3 +1,19 @@
 * level 1 headline 
 ** level 2 headline 
 *** level 3 headline
+* lists
+** order lists
+1. Play
+2. Sleep
+3. Shower
+4. Eat
+  1. Bread
+  2. Steak
+  10. Fries
+5. Floss
+
+** bullet list
+- drive
+- run
+- walk
+- sprint
