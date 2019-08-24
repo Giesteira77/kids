@@ -33,6 +33,5 @@
 ** anonymous table
 
 | column 1 | column 2 |
-|——-+———| 
 | row 1 | a |
 | row 2 | b |
