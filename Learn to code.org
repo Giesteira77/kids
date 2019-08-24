@@ -17,3 +17,14 @@
 - run
 - walk
 - sprint
+
+* example text
+** inline example text
+: single line example
+
+** multi line example
+#+begin_example
+1+1=2
+2+2=4
+4+4=8
+#+end_example
