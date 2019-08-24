@@ -28,3 +28,11 @@
 2+2=4
 4+4=8
 #+end_example
+
+* tables
+** anonymous table
+
+| column 1 | column 2 |
+|——-+———| 
+| row 1 | a |
+| row 2 | b |
